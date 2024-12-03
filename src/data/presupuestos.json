@@ -1,0 +1,37 @@
+[
+    {
+      "Item": "Actores",
+      "Gasto": 50,
+      "Porcentaje": "34%"
+    },
+    {
+      "Item": "Sets",
+      "Gasto": 25,
+      "Porcentaje": "17%"
+    },
+    {
+      "Item": "Efectos",
+      "Gasto": 20,
+      "Porcentaje": "14%"
+    },
+    {
+      "Item": "Direccion",
+      "Gasto": 15,
+      "Porcentaje": "10%"
+    },
+    {
+      "Item": "Licencias",
+      "Gasto": 10,
+      "Porcentaje": "8%"
+    },
+    {
+      "Item": "Otros",
+      "Gasto": 30,
+      "Porcentaje": "17%"
+    },
+    {
+      "Item": "Total",
+      "Gasto": 150,
+      "Porcentaje": "100%"
+    }
+  ]

@@ -1,0 +1,22 @@
+/* Estilos globales */
+@font-face {
+    font-family: "Bartex";
+    src:
+      url("Bartex.ttf");
+  }
+
+  @font-face {
+    font-family: "Helvetica";
+    src:
+      url("Helvetica.ttc");
+  }
+
+  .fl-scrolly-step {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    color: white !important;
+    max-width: 400px !important;
+  }
+
+  .flourish-credit{
+    display:none
+}

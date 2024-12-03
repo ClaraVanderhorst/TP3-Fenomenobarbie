@@ -1,0 +1,80 @@
+[
+    {
+      "año": 2023,
+      "barbies": 330,
+      "hot_wheels": 160,
+      "fisher_price": 10,
+      "total": 602
+    },
+    {
+      "año": 2022,
+      "barbies": 160,
+      "hot_wheels": 300,
+      "fisher_price": 40,
+      "total": 569
+    },
+    {
+      "año": 2021,
+      "barbies": 120,
+      "hot_wheels": 300,
+      "fisher_price": 80,
+      "total": 586
+    },
+    {
+      "año": 2020,
+      "barbies": 70,
+      "hot_wheels": 400,
+      "fisher_price": 30,
+      "total": 565
+    },
+    {
+      "año": 2019,
+      "barbies": 100,
+      "hot_wheels": 360,
+      "fisher_price": 40,
+      "total": 534
+    },
+    {
+      "año": 2018,
+      "barbies": 230,
+      "hot_wheels": 200,
+      "fisher_price": 70,
+      "total": 518
+    },
+    {
+      "año": 2017,
+      "barbies": 200,
+      "hot_wheels": 240,
+      "fisher_price": 60,
+      "total": 497
+    },
+    {
+      "año": 2016,
+      "barbies": 40,
+      "hot_wheels": 390,
+      "fisher_price": 70,
+      "total": 490
+    },
+    {
+      "año": 2015,
+      "barbies": 190,
+      "hot_wheels": 230,
+      "fisher_price": 80,
+      "total": 466
+    },
+    {
+      "año": 2014,
+      "barbies": 210,
+      "hot_wheels": 280,
+      "fisher_price": 10,
+      "total": 468
+    },
+    {
+      "año": 2013,
+      "barbies": 260,
+      "hot_wheels": 200,
+      "fisher_price": 40,
+      "total": 465
+    }
+  ]
+  
