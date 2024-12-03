@@ -2,13 +2,13 @@
 @font-face {
     font-family: "Bartex";
     src:
-      url("Bartex.ttf");
+      url("/fonts/Bartex.ttf");
   }
 
   @font-face {
     font-family: "Helvetica";
     src:
-      url("Helvetica.ttc");
+      url("/fonts/Helvetica.ttc");
   }
 
   .fl-scrolly-step {
